@@ -58,7 +58,7 @@ New features will be out soon!
 """
 
 INITIAL_TUTORIAL = f"""
-Hello! Thanks for using my bot.. this bot allows you to get your Upwork RSS feed delivered to you!
+Hello!! Thanks for using my bot.. this bot allows you to get your Upwork RSS feed delivered to you!
 
 Here's a quick tutorial on how to use the bot:
 
